@@ -1,0 +1,8 @@
+# JSULang Metadata
+# Example: Compiler Configuration
+# Author: HTML0727
+# Notes: This header defines valid instructions and the numerical system for the compiler.
+
+jsu: j, s, u, l, !, ?, &, $, @, ;, _
+
+num: 10
