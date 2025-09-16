@@ -1,0 +1,7 @@
+# JSULang Metadata
+# Example: Hello, World!
+# Author: HTML0727
+# Notes: This header defines valid instructions and the numerical system.
+
+jsu: j, s, u, l, !, ?, &, $, @, ;, _
+num: hex
